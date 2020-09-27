@@ -1,0 +1,43 @@
+# Plataforma de Lançamento (Financeiro)
+
+	+ Tecnologias
+
+		> NodeJS					v6.10.2
+		> MongoDB
+		> Express
+
+	+ Funcionalidades
+
+	+ Versionamento
+
+		URL:				https://github.com/palladhium/PLGFIN-API.git
+		USER:				Palladhium
+		EMAIL: 				palladhium@outlook.com.br
+
+	+ Comandos
+
+		npm init -y
+
+		npm install express --save
+		npm install body-parser --save
+		npm install mongoose --save
+		npm install mongoose-paginate --save
+		npm install node-restful --save
+		npm install lodash --save
+		npm install express-query-int --save
+		npm install pm2 --save
+
+		npm install nodemon --save-dev
+
+		-- Versionar no Github
+		git init
+		git add *
+		git commit -m "PLGFIN-50162020092718"
+		git remote add origin https://github.com/palladhium/PLGFIN-API.git
+		git push -u origin master
+
+	+ Demandas (PLGFIN-<MINUTO><HORA><ANO><MES><DIA><SEGUNDO>)
+
+		> PLGFIN-50162020092718
+
+			- Implementar estrutura básica da aplicação
