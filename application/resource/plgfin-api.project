@@ -26,14 +26,24 @@
 		npm install lodash --save
 		npm install express-query-int --save
 		npm install pm2 --save
-
 		npm install nodemon --save-dev
 
+		npm i
+
+		npm run dev
+
 		-- Versionar no Github
+		 git config --global user.email "palladhium@outlook.com.br"
+  		 git config --global user.name "Palladhium"
+
 		git init
 		git add *
 		git commit -m "PLGFIN-50162020092718"
 		git remote add origin https://github.com/palladhium/PLGFIN-API.git
+		git push -u origin master
+
+		git add *
+		git commit -m "PLGFIN-51222020092856"
 		git push -u origin master
 
 	+ Demandas (PLGFIN-<MINUTO><HORA><ANO><MES><DIA><SEGUNDO>)
@@ -41,3 +51,9 @@
 		> PLGFIN-50162020092718
 
 			- Implementar estrutura básica da aplicação
+
+		> PLGFIN-51222020092856
+
+			- Implementar configuração do servidor
+
+		> PLGFIN-XXXXXXXXXXXXX
