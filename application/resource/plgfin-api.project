@@ -14,6 +14,8 @@
 		USER:				Palladhium
 		EMAIL: 				palladhium@outlook.com.br
 
+		DATABASE:			https://cloud.mongodb.com/v2/5f7297c289cff866d611bb61#clusters/connect?clusterId=Cluster0
+
 	+ Comandos
 
 		npm init -y
