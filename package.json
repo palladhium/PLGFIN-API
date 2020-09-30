@@ -1,7 +1,7 @@
 {
   "name": "PLGFIN-API",
   "version": "1.0.0",
-  "description": "",
+  "description": "PLGFIN-API",
   "main": "application/configuration/loader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,7 +19,7 @@
     "mongoose": "^5.10.7",
     "mongoose-paginate": "^5.0.3",
     "node-restful": "^0.2.6",
-    "pm2": "^4.4.1"
+    "pm2": "^4.5.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"

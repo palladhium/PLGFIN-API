@@ -8,7 +8,7 @@ server.use(bodyParser.json());
 const portaServidor = 9090;
 
 server.listen(portaServidor, function() {
-    console.log(`Servidor executado na porta: ${portaServidor}`);
+    // console.log(`Servidor executado na porta: ${portaServidor}`);
 });
 
 // server.use(function(request, response, next) {
