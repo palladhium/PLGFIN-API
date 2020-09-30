@@ -11,6 +11,8 @@ server.listen(portaServidor, function() {
     console.log(`Servidor executado na porta: ${portaServidor}`);
 });
 
-server.use(function(request, response, next) {
-    response.send(`Executando...`);
-});
+// server.use(function(request, response, next) {
+//     response.send(`Executando...`);
+// });
+
+module.exports = server;

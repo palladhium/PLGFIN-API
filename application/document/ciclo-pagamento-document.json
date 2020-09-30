@@ -1,0 +1,14 @@
+{
+    "nome": "Janeiro 2021",
+    "mes": 10,
+    "ano": 2020,
+    "id_credito": {
+        "nome": "Salário Mensalista",
+        "valor": 10000
+    },
+    "id_debito": {
+        "nome": "Mensalidade de Apartamento",
+        "valor": 4000,
+        "situacao": "PENDENTE"
+    }
+}
