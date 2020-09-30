@@ -1,6 +1,6 @@
 const express = require("express");
-const CicloPagamentoService = require("../service/ciclo-pagamento-service");
-const ResumoFaturamentoService = require("../service/resumo-faturamento-service");
+const CicloPagamentoService = require("../repository/ciclo-pagamento-repository");
+const ResumoFaturamentoService = require("../repository/resumo-faturamento-repository");
 const router = express.Router();
 
 module.exports = function(server) {

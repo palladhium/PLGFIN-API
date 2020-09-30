@@ -8,7 +8,7 @@
     },
     "id_debito": {
         "nome": "Mensalidade de Apartamento",
-        "valor": 4000,
+        "valor": 5000,
         "situacao": "PENDENTE"
     }
 }
