@@ -2,11 +2,11 @@
   "name": "PLGFIN-API",
   "version": "1.0.0",
   "description": "PLGFIN-API",
-  "main": "application/configuration/loader.js",
+  "main": "application/configuration/loader-configuration.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon",
-    "pm2": "pm2 start loader.js --name PLGFIN-API"
+    "pm2": "pm2 start loader-configuration.js --name PLGFIN-API"
   },
   "keywords": [],
   "author": "Plataforma de Lançamento",
